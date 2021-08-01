@@ -117,3 +117,4 @@ const startGame = () => {
 
 // to start game
 startGame();
+module.exports = options;

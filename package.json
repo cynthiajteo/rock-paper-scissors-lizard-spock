@@ -1,6 +1,14 @@
 {
-  "dependencies": {
-    "jest": "^27.0.6",
-    "readline-sync": "^1.4.10"
-  }
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "jest": {
+        "verbose": true
+    },
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
 }
