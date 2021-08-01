@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jest": "^27.0.6",
+    "readline-sync": "^1.4.10"
+  }
+}
